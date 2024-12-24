@@ -11,5 +11,6 @@ Predict unhealthy air quality levels across California based on wildfire activit
 2.  Create a virtual environment and install dependencies:
     ```bash
     python3.12 -m venv venv
-    source venv/bin/activate
+    source venv/bin/activate   # For Linux/Mac
+    .\venv\Scripts\activate    # For Windows
     pip install -r requirements.txt
