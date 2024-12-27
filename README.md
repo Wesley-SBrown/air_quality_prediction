@@ -6,7 +6,7 @@ Predict unhealthy air quality levels across California based on wildfire activit
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/air_quality_prediction.git
+    git clone https://github.com/Wesley-SBrown/air_quality_prediction/edit/main/README.md
     cd air_quality_prediction
 2.  Create a virtual environment and install dependencies:
     ```bash
