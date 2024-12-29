@@ -9,3 +9,6 @@ data/processed/
 
 # Ignore model checkpoints
 models/
+
+# ignore venv
+venv/
