@@ -1,14 +1,6 @@
-# Ignore Python-related files
-__pycache__/
-*.pyc
-.env
+# Relevant Files to Ignore
 
-# Ignore data files
-data/raw/
-data/processed/
-
-# Ignore model checkpoints
-models/
-
-# ignore venv
-venv/
+.venv
+EPA_air_quality.sqlite
+personal.py
+__pycache__
