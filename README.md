@@ -1,3 +1,19 @@
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Wesley-SBrown/air_quality_prediction.git
+    cd air_quality_prediction
+2.  Create a virtual environment and install dependencies:
+    ```bash
+    python3.12 -m venv venv
+    source venv/bin/activate   # For Linux/Mac
+    .\venv\Scripts\activate    # For Windows
+    pip install -r requirements.txt
+
+* Make Sure to install the requirements txt file whilst inside the environment ( you can comment out undesired modules )
+
+
+
 ## Specific Branch Role
 Analysis Done by Max Vo on the EPA air quality dataset
 
@@ -10,4 +26,6 @@ Analysis Done by Max Vo on the EPA air quality dataset
 * __STP__ (Standard Temperature and Pressure): reference condition commonly used in environmental and scientific measurements to ensure consistency across different datasets
   * Temperature: 0°C (273.15 K)
   * Pressure: 1 atmosphere (101.325 kPa)
+
+
 
