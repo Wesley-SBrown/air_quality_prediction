@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("/Users/joshuawei/air_quality_prediction/original_df.csv")
+df = pd.read_csv("/Users/joshuawei/air_quality_prediction/original_MET.csv")
 
 # qc_data = []
 # for items in df.columns:
@@ -58,5 +58,5 @@ df= df[df["Station"].isin([6, 43, 88, 211, 233])]
 #88 Cuyama, Bottom Mid
 #233 Joshua Tree, Bottom
 
-df.to_csv("clean_df.csv", index = False)
+df.to_csv("clean_MET.csv", index = False)
 #15202 rows

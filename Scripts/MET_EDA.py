@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv("/Users/joshuawei/air_quality_prediction/clean_df.csv")
+df = pd.read_csv("/Users/joshuawei/air_quality_prediction/clean_MET.csv")
 stations = ["6", "43", "88", "211", "233"]
 
 #Station as Categorical
