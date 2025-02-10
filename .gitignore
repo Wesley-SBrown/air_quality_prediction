@@ -1,6 +1,16 @@
 # Relevant Files to Ignore
 
-.venv
+# Ignore virtual environment
+venv/
+*.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore outputs from scripts or testing
+*.log
+
+
 EPA_air_quality.sqlite
 personal.py
 __pycache__
