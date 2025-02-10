@@ -1,8 +1,3 @@
-# California Air Quality Prediction
-
-## Project Description
-Predict unhealthy air quality levels across California based on wildfire activity and meteorological conditions.
-
 ## Installation
 1. Clone the repository:
     ```bash
@@ -14,3 +9,7 @@ Predict unhealthy air quality levels across California based on wildfire activit
     source venv/bin/activate   # For Linux/Mac
     .\venv\Scripts\activate    # For Windows
     pip install -r requirements.txt
+
+* Make Sure to install the requirements txt file whilst inside the environment ( you can comment out undesired modules )
+
+
