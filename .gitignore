@@ -1,7 +1,5 @@
 # Relevant Files to Ignore
 
-# Relevant Files to Ignore
-
 # Ignore virtual environment
 venv/
 *.env
@@ -11,6 +9,7 @@ venv/
 
 # Ignore outputs from scripts or testing
 *.log
+
 
 EPA_air_quality.sqlite
 personal.py
