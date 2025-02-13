@@ -1,0 +1,42 @@
+{'state_code': '22', #
+ 'county_code': '057',
+ 'site_number': '0004',
+ 'parameter_code': '44201', #
+ 'poc': 1,
+ 'latitude': 29.764098, #
+ 'longitude': -90.765275, #
+ 'datum': 'WGS84',
+ 'parameter': 'Ozone', # 
+ 'sample_duration': '1 HOUR', #
+ 'sample_duration_code': '1',
+ 'sample_duration_type': 'O', 
+ 'pollutant_standard': 'Ozone 1-hour 1979', #
+ 'year': 2010, #
+ 'quarter': '2', #
+ 'units_of_measure': 'Parts per million', #
+ 'event_type': 'No Events',
+ 'observation_count': 2149, 
+ 'observation_percent': '98.0',#
+ 'arithmetic_mean': 0.0288, #
+ 'minimum_value': '0.018', #
+ 'maximum_value': '0.08', # 
+ 'quarterly_criteria_met': 'Y', #
+ 'actual_days_gt_std': 0,
+ 'estimated_days_gt_std': None,
+ 'valid_samples': '91.0',
+ 'valid_day_count': '91.0',
+ 'scheduled_samples': '2184.0',
+ 'percent_days': None,
+ 'percent_one_value': '100.0',
+ 'monitoring_agency_code': '1001',
+ 'monitoring_agency': 'State Of Louisiana', #
+ 'local_site_name': 'Thibodaux',
+ 'address': '194 Thorough-bred Park Drive',
+ 'state': 'Louisiana', # 
+ 'county': 'Lafourche',
+ 'city': 'Thibodaux',
+ 'tribal_code': None,
+ 'tribal_land': None,
+ 'cbsa_code': '26380',
+ 'cbsa': 'Houma-Thibodaux, LA',
+ 'date_of_last_change': '2024-06-05'}
