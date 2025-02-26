@@ -19,7 +19,7 @@
  'observation_percent': '98.0',#
  'arithmetic_mean': 0.0288, #
  'minimum_value': '0.018', #
- 'maximum_value': '0.08', # 
+ 'maximum_value': '0.08', #
  'quarterly_criteria_met': 'Y', #
  'actual_days_gt_std': 0,
  'estimated_days_gt_std': None,
