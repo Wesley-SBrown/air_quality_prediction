@@ -16,3 +16,6 @@ venv/
 EPA_air_quality.sqlite
 personal.py
 __pycache__
+
+# Ignore large files
+too_big

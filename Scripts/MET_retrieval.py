@@ -32,5 +32,5 @@ for station in stations:
 
 final_df = pd.concat(main_df, ignore_index=False)
 
-final_df.to_csv("original_MET.csv", index = False)
+final_df.to_csv("data/Raw_MET_CA(2013_2024).csv", index = False)
 print(len(df))

@@ -10,6 +10,6 @@
     .\venv\Scripts\activate    # For Windows
     pip install -r requirements.txt
 
-* Make Sure to install the requirements txt file whilst inside the environment ( you can comment out undesired modules )
+* Make Sure to install the requirements.txt file whilst inside the environment ( you can comment out undesired modules )
 
 
